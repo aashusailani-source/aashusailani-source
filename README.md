@@ -1,5 +1,7 @@
-# 💫 Hey, Aashu Here 🙋‍♂️ 
-About Me:
+# 🙋‍♂️Hey, Aashu Here 
+
+# About Me:
+
 I'm a full-stack web developer passionate about building end-to-end web applications. I specialize in both front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, MongoDB) technologies. Explore my repositories to see some of the projects I've worked on. Feel free to contribute or get in touch!<br><br>Happy coding! 🚀
 
 
