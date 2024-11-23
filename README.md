@@ -6,7 +6,7 @@ I'm a full-stack web developer passionate about building end-to-end web applicat
 Happy coding! 🚀
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rahul10287848)
+![](https://x.com/@Rahul10287848)
 
 ## 💻 Tech Stack:
 ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
